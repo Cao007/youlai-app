@@ -43,4 +43,5 @@ launch.json
 .cursor/
 .windsurf/
 .agents/
+.trae/
 skills-lock.json
